@@ -1,12 +1,3 @@
-# Welcome to our coding test!
-
-Your solution to this coding test will be evaluated based on its:
- * Adherence to best coding practices
-   * Add unit tests that cover the basic features of TransactionDataFetcher. One test per method would be enough
- * Correctness
- * Efficiency
-
-Take your time to fully understand the problem and formulate a plan before starting to code, and don't hesitate to ask any questions if you have doubts.
 
 # Objective
 
